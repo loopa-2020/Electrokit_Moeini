@@ -30,11 +30,12 @@ p {
 	font-size: 20px;
 }
 .tamasBaMapack {
+	padding: 3px 10px;
 	width: 50%;
 	border: #dbdbdb 2px solid;
 	border-radius: 20px;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 }
 .callMatn {
 	color: #007aff;
