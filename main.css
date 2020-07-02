@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'sans';
+	src: url(fonts/IRAN\ Sans\ Regular.ttf) format('truetype');
+}
+body {
+	font-family: 'sans';
+	/* text-align: center; */
+	direction: rtl;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+a {
+	text-decoration: none;
+}
+h1 {
+	font-size: 50px;
+}
+p {
+	color: #767676;
+	font-size: 30px;
+}
+.tamasBaMa {
+	font-size: 25px;
+}
+.call {
+	color: #007aff;
+	font-size: 20px;
+}
+.tamasBaMapack {
+	width: 50%;
+	border: #dbdbdb 2px solid;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+.callMatn {
+	color: #007aff;
+	font-size: 20px;
+}
+.telW {
+	margin: 20px;
+}
+.telgram {
+	font-size: 20px;
+	margin: 0 10px;
+	padding: 3px 30px;
+	background-color: #007aff;
+	color: #fff;
+	border: 0px solid #007aff;
+	border-radius: 20px;
+}
+.whatsup {
+	font-size: 20px;
+	margin: 0 10px;
+	padding: 3px 30px;
+	background-color: #25d368;
+	color: #fff;
+	border: 0px solid #25d368;
+	border-radius: 20px;
+}
